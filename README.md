@@ -21,7 +21,4 @@ A minimal pomodoro timer created using HTML, CSS / SCSS and JavaScript
 - Sass / SCSS
 - JavaScript (ES6)
 
-## Inspiration
-This application is based on a [FrontEndMentor challenge](https://www.frontendmentor.io/challenges/pomodoro-app-KBFnycJ6G).
 
-The changes made were to reduce the number of additional interactions, putting the focus on work and productivity - while keeping a minimal interface.
